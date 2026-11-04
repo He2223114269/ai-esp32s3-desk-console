@@ -1,0 +1,14 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+*.pyc
+__pycache__/
+*.bin
+*.elf
+*.map
+
+# 系统
+.DS_Store
+Thumbs.db
